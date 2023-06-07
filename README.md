@@ -1,2 +1,2 @@
 # holbertonschool-shell
-Shell projects
+Repository for Holberton shell projects

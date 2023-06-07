@@ -1,0 +1,2 @@
+# basics
+Shell basics projects
